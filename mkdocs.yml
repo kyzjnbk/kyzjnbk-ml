@@ -8,3 +8,8 @@ theme:
     name: material
 extra:
     version: 0.1
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - def_list
