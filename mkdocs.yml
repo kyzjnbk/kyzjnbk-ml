@@ -1,0 +1,5 @@
+site_name: 科研仔技能百科-机器学习
+
+nav:
+    - Home: index.md
+    
