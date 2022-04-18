@@ -2,4 +2,9 @@ site_name: 科研仔技能百科-机器学习
 
 nav:
     - Home: index.md
-    
+
+repo_url: https://github.com/kyzjnbk/kyzjnbk-ml
+theme:
+    name: material
+extra:
+    version: 0.1
