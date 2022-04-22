@@ -10,6 +10,7 @@ nav:
     - Models:
         - model/index.md
         - AlexNet: model/alexnet.md
+        - Inception: model/inception.md
         - Transformer: model/transformer.md
     - Datasets:
         - dataset/index.md
