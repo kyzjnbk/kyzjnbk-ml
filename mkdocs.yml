@@ -8,8 +8,11 @@ nav:
         - Unsupervised Learning: diagram/unsupervised.md
         - Reinforcement Learning: diagram/reinforcement.md
     - Models:
+        - model/index.md
+        - AlexNet: model/alexnet.md
         - Transformer: model/transformer.md
-
+    - Datasets:
+        - dataset/index.md
 
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
     name: material
