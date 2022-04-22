@@ -1,8 +1,14 @@
-site_name: 科研仔技能百科-机器学习
+site_name: Machine Learning
 repo_url: https://github.com/kyzjnbk/kyzjnbk-ml
 
 nav:
     - Home: index.md
+    - Diagrams:
+        - Supervised Learning: diagram/supervised.md
+        - Unsupervised Learning: diagram/unsupervised.md
+        - Reinforcement Learning: diagram/reinforcement.md
+    - Models:
+        - Transformer: model/transformer.md
 
 
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
